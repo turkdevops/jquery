@@ -65,7 +65,7 @@
     "sinon": "7.3.1",
     "strip-json-comments": "3.1.1",
     "testswarm": "1.1.2",
-    "uglify-js": "3.4.7"
+    "uglify-js": "3.12.5"
   },
   "scripts": {
     "build": "npm install && grunt",
